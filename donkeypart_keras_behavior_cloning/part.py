@@ -1,8 +1,6 @@
 """"
 
-keras.py
-
-functions to run and train autopilots using keras
+Behavior Cloning Autopilot
 
 """
 
