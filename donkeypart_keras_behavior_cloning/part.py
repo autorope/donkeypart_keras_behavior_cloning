@@ -4,11 +4,11 @@ Behavior Cloning Autopilot
 
 """
 
-from tensorflow.python.keras.layers import Input
-from tensorflow.python.keras.models import Model, load_model
-from tensorflow.python.keras.layers import Convolution2D
-from tensorflow.python.keras.layers import Dropout, Flatten, Dense
-from tensorflow.python.keras.callbacks import ModelCheckpoint, EarlyStopping
+from tensorflow.keras.layers import Input
+from tensorflow.keras.models import Model, load_model
+from tensorflow.keras.layers import Convolution2D
+from tensorflow.keras.layers import Dropout, Flatten, Dense
+from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
 
 
 class KerasPilot:

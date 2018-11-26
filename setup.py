@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='donkeypart_keras_behavior_cloning',
-      version='0.1.2',
+      version='0.1.3',
       description='Library to control steering and throttle actuators.',
       long_description="no long description given",
       long_description_content_type="text/markdown",
